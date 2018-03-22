@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IP Deescription</string>
+    <string name="title_ip">Direccion IP y Mascara de sub-red</string>
+    <string name="broadcast_ip">BROADCAST IP</string>
+    <string name="red_id">ID DE RED</string>
+    <string name="cant_redes">CANT. HOSTS</string>
+    <string name="parte_host">PARTE HOST</string>
+</resources>
